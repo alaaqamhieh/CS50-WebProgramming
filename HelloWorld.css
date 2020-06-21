@@ -1,3 +1,6 @@
 body{
-    color: blue;
+    color: magenta;
+    font-size: 2em;
+    position: relative;
+    text-align: center;
 }
